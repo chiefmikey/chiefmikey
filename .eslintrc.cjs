@@ -4,7 +4,7 @@ module.exports = {
     'plugin:sonarjs/recommended',
     'plugin:compat/recommended',
     'plugin:md/recommended',
-    'plugin:prettier/recommended',
+    'plugin:prettier/recommended'
   ],
   overrides: [
     {
@@ -32,8 +32,10 @@ module.exports = {
     'md/remark': [
       'error',
       {
-        plugins: ['preset-lint-markdown-style-guide'],
-        ['lint-emphasis-marker', '_'],
+        plugins: [
+          'preset-lint-markdown-style-guide',
+          ['lint-emphasis-marker', '_'],
+        ],
       },
     ],
   },
