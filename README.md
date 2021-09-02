@@ -12,7 +12,7 @@
     <tr>
       <td valign="center">
         <a href="https://github.com/mikey-pro/style-guide"
-          >Mikey Pro Style Guide</a
+          ><b>Mikey Pro</b> Style Guide</a
         >
       </td>
       <td valign="center">
@@ -23,7 +23,7 @@
       </td>
       <td valign="center">
         <a href="https://github.com/chiefmikey/eslint-plugin-disable-autofix"
-          >ESLint Plugin Disable Autofix</a
+          ><b>ESLint Plugin</b> Disable Autofix</a
         >
       </td>
       <td valign="center">
@@ -36,7 +36,7 @@
     <tr>
       <td valign="center">
         <a href="https://github.com/mikey-pro/eslint-config"
-          >Mikey Pro ESLint Config</a
+          ><b>Mikey Pro</b> ESLint Config</a
         >
       </td>
       <td valign="center">
@@ -49,7 +49,7 @@
     <tr>
       <td valign="center">
         <a href="https://github.com/mikey-pro/prettier-config"
-          >Mikey Pro Prettier Config</a
+          ><b>Mikey Pro</b> Prettier Config</a
         >
       </td>
       <td valign="center">
@@ -62,7 +62,7 @@
     <tr>
       <td valign="center">
         <a href="https://github.com/mikey-pro/stylelint-config"
-          >Mikey Pro Stylelint Config</a
+          ><b>Mikey Pro</b> Stylelint Config</a
         >
       </td>
       <td valign="center">
