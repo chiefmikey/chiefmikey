@@ -17,7 +17,7 @@
       </td>
       <td valign="center">
         <img
-          src="https://img.shields.io/npm/dt/@mikey-pro/style-guide?color=%239987d8&style=for-the-badge"
+          src="https://img.shields.io/npm/dt/@mikey-pro/style-guide?color=%235dacb7&style=for-the-badge"
           alt="Mikey Pro Style Guide npm package total downloads count"
         />
       </td>
@@ -28,7 +28,7 @@
       </td>
       <td valign="center">
         <img
-          src="https://img.shields.io/npm/dt/eslint-plugin-disable-autofix?color=%235dacb7&style=for-the-badge"
+          src="https://img.shields.io/npm/dt/eslint-plugin-disable-autofix?color=%239987d8&style=for-the-badge"
           alt="ESLint Plugin Disable Autofix npm package total downloads count"
         />
       </td>
@@ -41,7 +41,7 @@
       </td>
       <td valign="center">
         <img
-          src="https://img.shields.io/npm/dt/@mikey-pro/eslint-config?color=%2397445a&style=for-the-badge"
+          src="https://img.shields.io/npm/dt/@mikey-pro/eslint-config?color=%238fbe61&style=for-the-badge"
           alt="Mikey Pro ESLint Config npm package total downloads count"
         />
       </td>
@@ -54,7 +54,7 @@
       </td>
       <td valign="center">
         <img
-          src="https://img.shields.io/npm/dt/@mikey-pro/prettier-config?color=%238fbe61&style=for-the-badge"
+          src="https://img.shields.io/npm/dt/@mikey-pro/prettier-config?color=%23cfb14e&style=for-the-badge"
           alt="Mikey Pro Prettier Config npm package total downloads count"
         />
       </td>
@@ -67,7 +67,7 @@
       </td>
       <td valign="center">
         <img
-          src="https://img.shields.io/npm/dt/@mikey-pro/stylelint-config?color=%23cfb14e&style=for-the-badge"
+          src="https://img.shields.io/npm/dt/@mikey-pro/stylelint-config?color=%2397445a&style=for-the-badge"
           alt="Mikey Pro Stylelint Config npm package total downloads count"
         />
       </td>
