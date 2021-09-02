@@ -6,7 +6,6 @@
     src="./images/mikl.png"
     alt="MIKL splash icon logo"
   />
-</div>
 
 <table>
   <tbody>
@@ -75,3 +74,5 @@
     </tr>
   </tbody>
 </table>
+
+</div>
