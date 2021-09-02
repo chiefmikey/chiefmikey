@@ -7,7 +7,7 @@
     alt="MIKL splash icon logo"
   />
 
-<h2>Packages</h2>
+<h1>Packages</h1>
 
 <table>
   <tbody>
