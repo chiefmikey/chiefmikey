@@ -9,7 +9,8 @@
     />
   </a>
 
-  <table width="100%" align="center">
+<div align="center">
+  <table>
     <thead>
       <tr>
         <th>Package</th>
@@ -55,4 +56,5 @@
       </tr>
     </tbody>
   </table>
+  </div>
 </div>
