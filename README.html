@@ -8,7 +8,6 @@
       alt="MIKL splash icon logo"
     />
   </a>
-
   <table>
     <thead>
       <tr>
@@ -34,22 +33,14 @@
             />
           </a>
         </td>
+      </tr>
+      <tr>
+        <td></td>
+        <td></td>
         <td valign="center">
           <a href="https://github.com/mikey-pro/eslint-config"
             ><b>Mikey Pro</b> ESLint Config
           </a>
-          <br />
-          <tr>
-            <a href="https://github.com/mikey-pro/prettier-config"
-              ><b>Mikey Pro</b> Prettier Config
-            </a>
-          </tr>
-          <tr>
-            <br />
-            <a href="https://github.com/mikey-pro/stylelint-config"
-              ><b>Mikey Pro</b> Stylelint Config
-            </a>
-          </tr>
         </td>
         <td valign="center">
           <img
@@ -57,13 +48,33 @@
             alt="Mikey Pro ESLint Config npm package total downloads count"
             style="width: 100%; height: 100%"
           />
-          <br />
+        </td>
+      </tr>
+      <tr>
+        <td></td>
+        <td></td>
+        <td valign="center">
+          <a href="https://github.com/mikey-pro/prettier-config"
+            ><b>Mikey Pro</b> Prettier Config
+          </a>
+        </td>
+        <td valign="center">
           <img
             src="https://img.shields.io/npm/dt/@mikey-pro/prettier-config?color=%23cfb14e&style=for-the-badge&label="
             alt="Mikey Pro Prettier Config npm package total downloads count"
             style="width: 100%; height: 100%"
           />
-          <br />
+        </td>
+      </tr>
+      <tr>
+        <td></td>
+        <td></td>
+        <td valign="center">
+          <a href="https://github.com/mikey-pro/stylelint-config"
+            ><b>Mikey Pro</b> Stylelint Config
+          </a>
+        </td>
+        <td valign="center">
           <img
             src="https://img.shields.io/npm/dt/@mikey-pro/stylelint-config?color=%2397445a&style=for-the-badge&label="
             alt="Mikey Pro Stylelint Config npm package total downloads count"
