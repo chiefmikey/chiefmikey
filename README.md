@@ -21,7 +21,6 @@
       <td valign="center">
         <a href="https://github.com/mikey-pro/style-guide"
           ><b>Mikey Pro</b>
-          <br />
           Style Guide
         </a>
       </td>
@@ -39,7 +38,6 @@
       <td valign="center">
         <a href="https://github.com/chiefmikey/eslint-plugin-disable-autofix"
           ><b>ESLint Plugin</b>
-          <br />
           Disable Autofix
         </a>
       </td>
