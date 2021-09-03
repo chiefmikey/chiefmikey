@@ -1,12 +1,4 @@
 <!DOCTYPE html>
-<style type="text/css">
-  a {
-    height: 0;
-  }
-  td {
-    padding: 0;
-  }
-</style>
 <div width="100%" align="center">
   <a href="https://github.com/chiefmikey">
     <img
@@ -33,10 +25,7 @@
         </a>
       </td>
       <td valign="center" align="center">
-        <a
-          href="https://www.npmjs.com/package/@mikey-pro/style-guide"
-          style="height: 0"
-        >
+        <a href="https://www.npmjs.com/package/@mikey-pro/style-guide">
           <img
             src="https://img.shields.io/npm/dt/@mikey-pro/style-guide?color=%235dacb7&style=for-the-badge&label="
             alt="Mikey Pro Style Guide npm package total downloads count"
