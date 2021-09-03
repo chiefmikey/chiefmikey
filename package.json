@@ -9,7 +9,7 @@
   "devDependencies": {
     "@mikey-pro/style-guide": "^1.1.4"
   },
-  "license": "ISC",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git+https://chiefmikey@github.com/chiefmikey/chiefmikey.git"
