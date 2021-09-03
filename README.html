@@ -1,4 +1,9 @@
 <!DOCTYPE html>
+<style type="text/css">
+  a {
+    height: 0;
+  }
+</style>
 <div width="100%" align="center">
   <a href="https://github.com/chiefmikey">
     <img
