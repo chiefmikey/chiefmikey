@@ -49,19 +49,19 @@
         </td>
         <td valign="center">
           <img
-            src="https://img.shields.io/npm/dt/@mikey-pro/eslint-config?color=%238fbe61&style=for-the-badge"
+            src="https://img.shields.io/npm/dt/@mikey-pro/eslint-config?color=%238fbe61&style=for-the-badge&label="
             alt="Mikey Pro ESLint Config npm package total downloads count"
             style="width: 100%; height: 100%"
           />
           <br />
           <img
-            src="https://img.shields.io/npm/dt/@mikey-pro/prettier-config?color=%23cfb14e&style=for-the-badge"
+            src="https://img.shields.io/npm/dt/@mikey-pro/prettier-config?color=%23cfb14e&style=for-the-badge&label="
             alt="Mikey Pro Prettier Config npm package total downloads count"
             style="width: 100%; height: 100%"
           />
           <br />
           <img
-            src="https://img.shields.io/npm/dt/@mikey-pro/stylelint-config?color=%2397445a&style=for-the-badge"
+            src="https://img.shields.io/npm/dt/@mikey-pro/stylelint-config?color=%2397445a&style=for-the-badge&label="
             alt="Mikey Pro Stylelint Config npm package total downloads count"
             style="width: 100%; height: 100%"
           />
