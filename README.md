@@ -3,6 +3,9 @@
   a {
     height: 0;
   }
+  td {
+    padding: 0;
+  }
 </style>
 <div width="100%" align="center">
   <a href="https://github.com/chiefmikey">
