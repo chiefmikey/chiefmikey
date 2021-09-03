@@ -10,6 +10,12 @@
   </a>
 
   <table>
+    <thead>
+      <tr>
+        <th>Package</th>
+        <th>Downloads</th>
+      </tr>
+    </thead>
     <tbody>
       <tr>
         <td valign="center">
@@ -20,7 +26,7 @@
         <td valign="center">
           <a href="https://www.npmjs.com/package/@mikey-pro/style-guide">
             <img
-              src="https://img.shields.io/npm/dt/@mikey-pro/style-guide?color=%235dacb7&style=for-the-badge"
+              src="https://img.shields.io/npm/dt/@mikey-pro/style-guide?color=%235dacb7&style=for-the-badge&label="
               alt="Mikey Pro Style Guide npm package total downloads count"
               style="width: 100%"
             />
@@ -36,7 +42,7 @@
         <td valign="center">
           <a href="https://www.npmjs.com/package/eslint-plugin-disable-autofix">
             <img
-              src="https://img.shields.io/npm/dt/eslint-plugin-disable-autofix?color=%239987d8&style=for-the-badge"
+              src="https://img.shields.io/npm/dt/eslint-plugin-disable-autofix?color=%239987d8&style=for-the-badge&label="
               alt="ESLint Plugin Disable Autofix npm package total downloads count"
               style="width: 100%"
             />
