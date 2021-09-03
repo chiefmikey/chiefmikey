@@ -21,7 +21,7 @@
           <img
             src="https://img.shields.io/npm/dt/@mikey-pro/style-guide?color=%235dacb7&style=for-the-badge"
             alt="Mikey Pro Style Guide npm package total downloads count"
-            style="object-fit: contain"
+            style="display: block;"
           />
         </td>
         <td valign="center">
