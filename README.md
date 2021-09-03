@@ -17,14 +17,14 @@
     </thead>
     <tbody>
       <tr>
-        <td valign="center" rowspan="3">
+        <td valign="center" rowspan="4">
           <a href="https://github.com/mikey-pro/style-guide"
             ><b>Mikey Pro</b>
             <br />
             Style Guide
           </a>
         </td>
-        <td valign="center" align="center" rowspan="3">
+        <td valign="center" align="center" rowspan="4">
           <a href="https://www.npmjs.com/package/@mikey-pro/style-guide">
             <img
               src="https://img.shields.io/npm/dt/@mikey-pro/style-guide?color=%235dacb7&style=for-the-badge&label="
@@ -35,8 +35,6 @@
         </td>
       </tr>
       <tr>
-        <td></td>
-        <td></td>
         <td valign="center">
           <a href="https://github.com/mikey-pro/eslint-config"
             ><b>Mikey Pro</b> ESLint Config
@@ -51,8 +49,6 @@
         </td>
       </tr>
       <tr>
-        <td></td>
-        <td></td>
         <td valign="center">
           <a href="https://github.com/mikey-pro/prettier-config"
             ><b>Mikey Pro</b> Prettier Config
@@ -67,8 +63,6 @@
         </td>
       </tr>
       <tr>
-        <td></td>
-        <td></td>
         <td valign="center">
           <a href="https://github.com/mikey-pro/stylelint-config"
             ><b>Mikey Pro</b> Stylelint Config
