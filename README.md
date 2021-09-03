@@ -23,7 +23,7 @@
             ><b>Mikey Pro</b> Style Guide
           </a>
         </td>
-        <td valign="center">
+        <td valign="center" align="center">
           <a href="https://www.npmjs.com/package/@mikey-pro/style-guide">
             <img
               src="https://img.shields.io/npm/dt/@mikey-pro/style-guide?color=%235dacb7&style=for-the-badge&label="
@@ -39,7 +39,7 @@
             ><b>ESLint Plugin</b> Disable Autofix
           </a>
         </td>
-        <td valign="center">
+        <td valign="center" align="center">
           <a href="https://www.npmjs.com/package/eslint-plugin-disable-autofix">
             <img
               src="https://img.shields.io/npm/dt/eslint-plugin-disable-autofix?color=%239987d8&style=for-the-badge&label="
