@@ -9,7 +9,7 @@
     />
   </a>
 
-  <table>
+  <table align="center">
     <thead>
       <tr>
         <th>Package</th>
