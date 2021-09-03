@@ -34,7 +34,7 @@
             />
           </a>
         </td>
-        <td valign="center">
+        <td valign="center" rowspan="3">
           <a href="https://github.com/mikey-pro/eslint-config"
             ><b>Mikey Pro</b> ESLint Config
           </a>
@@ -47,7 +47,7 @@
             ><b>Mikey Pro</b> Stylelint Config
           </a>
         </td>
-        <td valign="center">
+        <td valign="center" rowspan="3">
           <img
             src="https://img.shields.io/npm/dt/@mikey-pro/eslint-config?color=%238fbe61&style=for-the-badge&label="
             alt="Mikey Pro ESLint Config npm package total downloads count"
