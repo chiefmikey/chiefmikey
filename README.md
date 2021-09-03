@@ -12,7 +12,7 @@
 <table align="center">
   <thead>
     <tr>
-      <th>Package</th>
+      <th>Packages</th>
       <th>Downloads</th>
     </tr>
   </thead>
