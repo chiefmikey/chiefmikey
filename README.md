@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <div width="100%" align="center">
-  <img
-    width="144"
-    height="144"
-    src="./images/mikl.png"
-    alt="MIKL splash icon logo"
-  />
+  <a href="https://github.com/chiefmikey">
+    <img
+      width="144"
+      height="144"
+      src="./images/mikl.png"
+      alt="MIKL splash icon logo"
+    />
+  </a>
 
   <h1>Packages</h1>
 
