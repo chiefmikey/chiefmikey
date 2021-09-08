@@ -91,18 +91,10 @@
 <table>
   <thead>
     <tr>
-      <th>npm Packages</th>
+      <th align="left" colspan="2">npm Packages</th>
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td valign="center">
-        <a href="https://github.com/mikey-pro/style-guide">
-          <b>Mikey Pro</b>
-          Style Guide
-        </a>
-      </td>
-    </tr>
     <tr>
       <td valign="center">
         <a href="https://github.com/chiefmikey/eslint-plugin-disable-autofix">
@@ -110,6 +102,7 @@
           Disable Autofix
         </a>
       </td>
+      <td valign="center">Disable ESLint autofix for specified rules</td>
     </tr>
   </tbody>
 </table>
