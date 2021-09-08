@@ -35,13 +35,13 @@
         </td>
       </tr>
       <tr>
-        <td>
+        <td width="25%">
           <a href="https://mikey-pro.com/style-guide"> Style Guide </a>
         </td>
         <td valign="center">Lint and format code</td>
       </tr>
       <tr>
-        <td valign="center">
+        <td valign="center" width="25%">
           <a href="https://mikey-pro.com/theme"> Theme </a>
         </td>
         <td valign="center">Look good, feel good</td>
@@ -63,7 +63,7 @@
         </td>
       </tr>
       <tr>
-        <td>
+        <td width="25%">
           <a
             href="https://github.com/chiefmikey/docker-images/tree/main/alpine-inject"
             target="_blank"
@@ -73,7 +73,7 @@
         <td valign="center">Externally inject shell commands</td>
       </tr>
       <tr>
-        <td valign="center">
+        <td width="25%">
           <a
             href="https://github.com/chiefmikey/docker-images/tree/main/cassandra"
             target="_blank"
@@ -83,7 +83,7 @@
         <td valign="center">Apache Cassandra 4.0.0 database</td>
       </tr>
       <tr>
-        <td>
+        <td width="25%">
           <a
             href="https://github.com/chiefmikey/docker-images/tree/main/koa"
             target="_blank"
@@ -93,7 +93,7 @@
         <td valign="center">Koa server with a routing skeleton</td>
       </tr>
       <tr>
-        <td valign="center">
+        <td width="25%">
           <a
             href="https://github.com/chiefmikey/docker-images/tree/main/craftcms"
             target="_blank"
@@ -115,7 +115,7 @@
         </td>
       </tr>
       <tr>
-        <td>
+        <td width="25%">
           <a href="https://github.com/chiefmikey/eslint-plugin-disable-autofix">
             <b>ESLint Plugin</b>
             Disable Autofix
