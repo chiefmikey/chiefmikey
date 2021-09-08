@@ -19,7 +19,7 @@
     </thead>
     <tbody>
       <tr>
-        <td rowspan="3" width="16%">
+        <td rowspan="3" width="20%">
           <a href="https://mikey-pro.com">
             <img
               src="./images/mikey-pro.png"
@@ -35,7 +35,7 @@
         </td>
       </tr>
       <tr>
-        <td width="25%">
+        <td width="34%">
           <a href="https://mikey-pro.com/style-guide"> Style Guide </a>
         </td>
         <td valign="center">Lint and format code</td>
@@ -47,7 +47,7 @@
         <td valign="center">Look good, feel good</td>
       </tr>
       <tr>
-        <td rowspan="2" width="16%">
+        <td rowspan="2" width="20%">
           <a href="https://www.npmjs.com/~chiefmikey">
             <img src="./images/npm.png" style="width: 100%" alt="npm logo" />
           </a>
@@ -68,7 +68,7 @@
         <td valign="center">Disable ESLint autofix for specified rules</td>
       </tr>
       <tr>
-        <td rowspan="5" width="16%">
+        <td rowspan="5" width="20%">
           <a href="https://hub.docker.com/u/chiefmikey">
             <img
               src="./images/docker.png"
