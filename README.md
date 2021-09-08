@@ -3,8 +3,8 @@
   <table>
     <thead>
       <tr>
-        <th align="left" colspan="3">
-          <div align="center" width="1000px">
+        <th align="left" colspan="3" width="2000px">
+          <div align="center">
             <a href="https://github.com/chiefmikey">
               <img
                 width="144px"
