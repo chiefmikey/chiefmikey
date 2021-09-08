@@ -30,7 +30,9 @@
         </td>
         <td colspan="2">
           <b>
+          <a href="https://mikey-pro.com">
             <h3>Mikey Pro</h3>
+          </a>
           </b>
         </td>
       </tr>
