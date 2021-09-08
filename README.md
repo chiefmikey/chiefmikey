@@ -18,7 +18,7 @@
       <th align="left" colspan="2">
         <img
           src="./logos/mikey-pro-logo-iso.png"
-          style="width: 50px; margin-right: 10px"
+          style="width: 80px"
         />Mikey Pro
       </th>
     </tr>
