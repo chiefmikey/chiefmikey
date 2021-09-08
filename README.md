@@ -19,7 +19,7 @@
     </thead>
     <tbody>
       <tr>
-        <td rowspan="3" width="200px">
+        <td rowspan="3" width="16%">
           <a href="https://mikey-pro.com">
             <img
               src="./images/mikey-pro.png"
@@ -41,7 +41,7 @@
         <td valign="center">Lint and format code</td>
       </tr>
       <tr>
-        <td valign="center" width="25%">
+        <td valign="center" width="30%">
           <a href="https://mikey-pro.com/theme"> Theme </a>
         </td>
         <td valign="center">Look good, feel good</td>
@@ -59,7 +59,7 @@
         </td>
       </tr>
       <tr>
-        <td width="25%">
+        <td width="30%">
           <a href="https://github.com/chiefmikey/eslint-plugin-disable-autofix">
             <b>ESLint Plugin</b>
             Disable Autofix
@@ -84,7 +84,7 @@
         </td>
       </tr>
       <tr>
-        <td width="25%">
+        <td width="30%">
           <a
             href="https://github.com/chiefmikey/docker-images/tree/main/alpine-inject"
             target="_blank"
@@ -94,7 +94,7 @@
         <td valign="center">Externally inject shell commands</td>
       </tr>
       <tr>
-        <td width="25%">
+        <td width="30%">
           <a
             href="https://github.com/chiefmikey/docker-images/tree/main/cassandra"
             target="_blank"
@@ -104,7 +104,7 @@
         <td valign="center">Apache Cassandra 4.0.0 database</td>
       </tr>
       <tr>
-        <td width="25%">
+        <td width="30%">
           <a
             href="https://github.com/chiefmikey/docker-images/tree/main/koa"
             target="_blank"
@@ -114,7 +114,7 @@
         <td valign="center">Koa server with a routing skeleton</td>
       </tr>
       <tr>
-        <td width="25%">
+        <td width="30%">
           <a
             href="https://github.com/chiefmikey/docker-images/tree/main/craftcms"
             target="_blank"
