@@ -19,7 +19,7 @@
     </thead>
     <tbody>
       <tr>
-        <td rowspan="3" width="18%" align="center">
+        <td rowspan="3" width="20%" align="center">
           <a href="https://mikey-pro.com">
             <img
               src="./images/mikey-pro.png"
@@ -35,19 +35,19 @@
         </td>
       </tr>
       <tr>
-        <td width="38%">
+        <td width="35%">
           <a href="https://mikey-pro.com/style-guide"> Style Guide </a>
         </td>
         <td valign="center">Lint and format code</td>
       </tr>
       <tr>
-        <td valign="center" width="38%">
+        <td valign="center" width="35%">
           <a href="https://mikey-pro.com/theme"> Theme </a>
         </td>
         <td valign="center">Look good, feel good</td>
       </tr>
       <tr>
-        <td rowspan="2" width="18%" align="center">
+        <td rowspan="2" width="20%" align="center">
           <a href="https://www.npmjs.com/~chiefmikey">
             <img src="./images/npm.png" style="width: 70px" alt="npm logo" />
           </a>
@@ -59,7 +59,7 @@
         </td>
       </tr>
       <tr>
-        <td width="38%">
+        <td width="35%">
           <a href="https://github.com/chiefmikey/eslint-plugin-disable-autofix">
             <b>ESLint Plugin</b>
             Disable Autofix
@@ -68,7 +68,7 @@
         <td valign="center">Disable ESLint autofix for specified rules</td>
       </tr>
       <tr>
-        <td rowspan="5" width="18%" align="center">
+        <td rowspan="5" width="20%" align="center">
           <a href="https://hub.docker.com/u/chiefmikey">
             <img
               src="./images/docker.png"
@@ -84,7 +84,7 @@
         </td>
       </tr>
       <tr>
-        <td width="38%">
+        <td width="35%">
           <a
             href="https://github.com/chiefmikey/docker-images/tree/main/alpine-inject"
             target="_blank"
@@ -94,7 +94,7 @@
         <td valign="center">Externally inject shell commands</td>
       </tr>
       <tr>
-        <td width="38%">
+        <td width="35%">
           <a
             href="https://github.com/chiefmikey/docker-images/tree/main/cassandra"
             target="_blank"
@@ -104,7 +104,7 @@
         <td valign="center">Apache Cassandra 4.0.0 database</td>
       </tr>
       <tr>
-        <td width="38%">
+        <td width="35%">
           <a
             href="https://github.com/chiefmikey/docker-images/tree/main/koa"
             target="_blank"
@@ -114,7 +114,7 @@
         <td valign="center">Koa server with a routing skeleton</td>
       </tr>
       <tr>
-        <td width="38%">
+        <td width="35%">
           <a
             href="https://github.com/chiefmikey/docker-images/tree/main/craftcms"
             target="_blank"
