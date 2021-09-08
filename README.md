@@ -47,7 +47,7 @@
         <td valign="center">Look good, feel good</td>
       </tr>
       <tr>
-        <td rowspan="3" width="16%">
+        <td rowspan="2" width="16%">
           <a href="https://www.npmjs.com/~chiefmikey">
             <img src="./logos/npm.png" style="width: 100%" alt="npm logo" />
           </a>
