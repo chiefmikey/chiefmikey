@@ -48,7 +48,7 @@
       </tr>
       <tr>
         <td rowspan="5">
-          <a href="https://docker.com">
+          <a href="https://hub.docker.com/u/chiefmikey">
             <img
               src="./logos/docker.png"
               style="width: 100px"
@@ -104,7 +104,7 @@
       </tr>
       <tr>
         <td rowspan="3">
-          <a href="https://npmjs.com">
+          <a href="https://www.npmjs.com/~chiefmikey">
             <img src="./logos/npm.png" style="width: 100px" alt="npm logo" />
           </a>
         </td>
