@@ -15,17 +15,8 @@
 <table>
   <thead>
     <tr>
-      <th align="left">
-        <img
-          src="./logos/mikey-pro-logo-iso.png"
-          style="width: 80px"
-        />
-      </th>
-      <th align="left">
-        Mikey Pro
-      </th>
+      <th align="left" colspan="2">Mikey Pro</th>
     </tr>
-
   </thead>
   <tbody>
     <tr>
