@@ -47,6 +47,27 @@
         <td valign="center">Look good, feel good</td>
       </tr>
       <tr>
+        <td rowspan="3" width="16%">
+          <a href="https://www.npmjs.com/~chiefmikey">
+            <img src="./logos/npm.png" style="width: 100%" alt="npm logo" />
+          </a>
+        </td>
+        <td colspan="2">
+          <b>
+            <h3>npm Packages</h3>
+          </b>
+        </td>
+      </tr>
+      <tr>
+        <td width="25%">
+          <a href="https://github.com/chiefmikey/eslint-plugin-disable-autofix">
+            <b>ESLint Plugin</b>
+            Disable Autofix
+          </a>
+        </td>
+        <td valign="center">Disable ESLint autofix for specified rules</td>
+      </tr>
+      <tr>
         <td rowspan="5" width="16%">
           <a href="https://hub.docker.com/u/chiefmikey">
             <img
@@ -101,27 +122,6 @@
           >
         </td>
         <td valign="center">Fresh CraftCMS installation</td>
-      </tr>
-      <tr>
-        <td rowspan="3" width="16%">
-          <a href="https://www.npmjs.com/~chiefmikey">
-            <img src="./logos/npm.png" style="width: 100%" alt="npm logo" />
-          </a>
-        </td>
-        <td colspan="2">
-          <b>
-            <h3>npm Packages</h3>
-          </b>
-        </td>
-      </tr>
-      <tr>
-        <td width="25%">
-          <a href="https://github.com/chiefmikey/eslint-plugin-disable-autofix">
-            <b>ESLint Plugin</b>
-            Disable Autofix
-          </a>
-        </td>
-        <td valign="center">Disable ESLint autofix for specified rules</td>
       </tr>
     </tbody>
   </table>
