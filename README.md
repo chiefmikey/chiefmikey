@@ -15,7 +15,7 @@
 <table>
   <thead>
     <tr>
-      <th valign="left" colspan="2">
+      <th align="left" colspan="2">
         <img
           src="./logos/mikey-pro-logo-iso.png"
           style="width: 50px; margin-right: 10px"
