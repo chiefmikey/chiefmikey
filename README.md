@@ -19,29 +19,17 @@
     </thead>
     <tbody>
       <tr>
+        <td rowspan="2">logo</td>
         <td>
-          <table valign="center" style="margin: 0">
-            <thead>
-              <tr>
-                <th align="left" colspan="2">Mikey Pro</th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                <td valign="center">
-                  <a href="https://mikey-pro.com/style-guide"> Style Guide </a>
-                </td>
-                <td valign="center">Lint and format code</td>
-              </tr>
-              <tr>
-                <td valign="center">
-                  <a href="https://mikey-pro.com/theme"> Theme </a>
-                </td>
-                <td valign="center">Look good, feel good</td>
-              </tr>
-            </tbody>
-          </table>
+          <a href="https://mikey-pro.com/style-guide"> Style Guide </a>
         </td>
+        <td valign="center">Lint and format code</td>
+      </tr>
+      <tr>
+        <td valign="center">
+          <a href="https://mikey-pro.com/theme"> Theme </a>
+        </td>
+        <td valign="center">Look good, feel good</td>
       </tr>
       <tr>
         <td>
