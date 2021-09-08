@@ -3,7 +3,7 @@
   <table>
     <thead>
       <tr>
-        <th align="left" colspan="3" width="2000px">
+        <th align="left" colspan="3" width="1000px">
           <div align="center">
             <a href="https://github.com/chiefmikey">
               <img
