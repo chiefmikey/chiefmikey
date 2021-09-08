@@ -28,7 +28,7 @@
             />
           </a>
         </td>
-        <td colspan="2" width="100%">
+        <td colspan="2">
           <b>
             <h3>Mikey Pro</h3>
           </b>
@@ -38,13 +38,13 @@
         <td width="38%">
           <a href="https://mikey-pro.com/style-guide"> Style Guide </a>
         </td>
-        <td valign="center" width="100%">Lint and format code</td>
+        <td valign="center" width="600px">Lint and format code</td>
       </tr>
       <tr>
         <td valign="center" width="38%">
           <a href="https://mikey-pro.com/theme"> Theme </a>
         </td>
-        <td valign="center" width="100%">Look good, feel good</td>
+        <td valign="center" width="600px">Look good, feel good</td>
       </tr>
       <tr>
         <td rowspan="2" width="20%" align="center">
@@ -52,7 +52,7 @@
             <img src="./images/npm.png" style="width: 70px" alt="npm logo" />
           </a>
         </td>
-        <td colspan="2" width="100%">
+        <td colspan="2">
           <b>
             <h3>npm Packages</h3>
           </b>
@@ -65,7 +65,7 @@
             Disable Autofix
           </a>
         </td>
-        <td valign="center" width="100%">Disable ESLint autofix for specified rules</td>
+        <td valign="center" width="600px">Disable ESLint autofix for specified rules</td>
       </tr>
       <tr>
         <td rowspan="5" width="20%" align="center">
@@ -77,7 +77,7 @@
             />
           </a>
         </td>
-        <td colspan="2" width="100%">
+        <td colspan="2">
           <b>
             <h3>Docker Images</h3>
           </b>
@@ -91,7 +91,7 @@
             >Alpine Inject</a
           >
         </td>
-        <td valign="center" width="100%">Externally inject shell commands</td>
+        <td valign="center" width="600px">Externally inject shell commands</td>
       </tr>
       <tr>
         <td width="38%">
@@ -101,7 +101,7 @@
             >Alpine Cassandra</a
           >
         </td>
-        <td valign="center" width="100%">Apache Cassandra 4.0.0 database</td>
+        <td valign="center" width="600px">Apache Cassandra 4.0.0 database</td>
       </tr>
       <tr>
         <td width="38%">
@@ -111,7 +111,7 @@
             >Alpine Koa</a
           >
         </td>
-        <td valign="center" width="100%">Koa server with a routing skeleton</td>
+        <td valign="center" width="600px">Koa server with a routing skeleton</td>
       </tr>
       <tr>
         <td width="38%">
@@ -121,7 +121,7 @@
             >Alpine CraftCMS</a
           >
         </td>
-        <td valign="center" width="100%">Fresh CraftCMS installation</td>
+        <td valign="center" width="600px">Fresh CraftCMS installation</td>
       </tr>
     </tbody>
   </table>
