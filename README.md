@@ -28,7 +28,7 @@
             />
           </a>
         </td>
-        <td colspan="2">
+        <td colspan="2" width="100%">
           <b>
             <h3>Mikey Pro</h3>
           </b>
@@ -52,7 +52,7 @@
             <img src="./images/npm.png" style="width: 70px" alt="npm logo" />
           </a>
         </td>
-        <td colspan="2">
+        <td colspan="2" width="100%">
           <b>
             <h3>npm Packages</h3>
           </b>
@@ -77,7 +77,7 @@
             />
           </a>
         </td>
-        <td colspan="2">
+        <td colspan="2" width="100%">
           <b>
             <h3>Docker Images</h3>
           </b>
