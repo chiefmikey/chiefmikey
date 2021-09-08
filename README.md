@@ -19,7 +19,7 @@
     </thead>
     <tbody>
       <tr>
-        <td rowspan="3" width="16%">
+        <td rowspan="3" width="16%" min-width="100px">
           <a href="https://mikey-pro.com">
             <img
               src="./images/mikey-pro.png"
