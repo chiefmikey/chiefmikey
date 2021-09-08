@@ -19,8 +19,18 @@
     </thead>
     <tbody>
       <tr>
-        <td rowspan="3"><img src="./logos/mikey-pro.png" style="width: 100px" /></td>
-        <td colspan="2"><b><h3>Mikey Pro</h3></b></td>
+        <td rowspan="3">
+          <img
+            src="./logos/mikey-pro.png"
+            style="width: 100px"
+            alt="Mikey Pro logo"
+          />
+        </td>
+        <td colspan="2">
+          <b>
+            <h3>Mikey Pro</h3>
+          </b>
+        </td>
       </tr>
       <tr>
         <td>
@@ -35,15 +45,25 @@
         <td valign="center">Look good, feel good</td>
       </tr>
       <tr>
-        <td rowspan="5"><img src="./logos/docker.png" style="width: 100px" /></td>
-        <td colspan="2"><b><h3>Docker Images</h3></b></td>
+        <td rowspan="5">
+          <img
+            src="./logos/docker.png"
+            style="width: 100px"
+            alt="Docker logo"
+          />
+        </td>
+        <td colspan="2">
+          <b>
+            <h3>Docker Images</h3>
+          </b>
+        </td>
       </tr>
       <tr>
         <td>
           <a
             href="https://github.com/chiefmikey/docker-images/tree/main/alpine-inject"
             target="_blank"
-            >Inject</a
+            >Alpine Inject</a
           >
         </td>
         <td valign="center">Externally inject shell commands</td>
@@ -53,7 +73,7 @@
           <a
             href="https://github.com/chiefmikey/docker-images/tree/main/cassandra"
             target="_blank"
-            >Cassandra</a
+            >Alpine Cassandra</a
           >
         </td>
         <td valign="center">Apache Cassandra 4.0.0 database</td>
@@ -63,7 +83,7 @@
           <a
             href="https://github.com/chiefmikey/docker-images/tree/main/koa"
             target="_blank"
-            >Koa</a
+            >Alpine Koa</a
           >
         </td>
         <td valign="center">Koa server with a routing skeleton</td>
@@ -73,14 +93,20 @@
           <a
             href="https://github.com/chiefmikey/docker-images/tree/main/craftcms"
             target="_blank"
-            >CraftCMS</a
+            >Alpine CraftCMS</a
           >
         </td>
         <td valign="center">Fresh CraftCMS installation</td>
       </tr>
       <tr>
-        <td rowspan="3"><img src="./logos/npm.png" style="width: 100px" /></td>
-        <td colspan="2"><b><h3>npm Packages</h3></b></td>
+        <td rowspan="3">
+          <img src="./logos/npm.png" style="width: 100px" alt="npm logo" />
+        </td>
+        <td colspan="2">
+          <b>
+            <h3>npm Packages</h3>
+          </b>
+        </td>
       </tr>
       <tr>
         <td>
