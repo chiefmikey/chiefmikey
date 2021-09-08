@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<div width="100%" align="center">
-  <table width="100%">
-    <thead width="100%">
+<div align="center">
+  <table>
+    <thead>
       <tr>
-        <th align="left" colspan="3" width="100%">
-          <div width="100%" align="center">
+        <th align="left" colspan="3">
+          <div align="center">
             <a href="https://github.com/chiefmikey">
               <img
                 width="144px"
@@ -38,13 +38,13 @@
         <td width="38%">
           <a href="https://mikey-pro.com/style-guide"> Style Guide </a>
         </td>
-        <td valign="center" width="100%">Lint and format code</td>
+        <td valign="center">Lint and format code</td>
       </tr>
       <tr>
         <td valign="center" width="38%">
           <a href="https://mikey-pro.com/theme"> Theme </a>
         </td>
-        <td valign="center" width="100%">Look good, feel good</td>
+        <td valign="center">Look good, feel good</td>
       </tr>
       <tr>
         <td rowspan="2" width="20%" align="center">
@@ -65,7 +65,7 @@
             Disable Autofix
           </a>
         </td>
-        <td valign="center" width="100%">Disable ESLint autofix for specified rules</td>
+        <td valign="center">Disable ESLint autofix for specified rules</td>
       </tr>
       <tr>
         <td rowspan="5" width="20%" align="center">
@@ -91,7 +91,7 @@
             >Alpine Inject</a
           >
         </td>
-        <td valign="center" width="100%">Externally inject shell commands</td>
+        <td valign="center">Externally inject shell commands</td>
       </tr>
       <tr>
         <td width="38%">
@@ -101,7 +101,7 @@
             >Alpine Cassandra</a
           >
         </td>
-        <td valign="center" width="100%">Apache Cassandra 4.0.0 database</td>
+        <td valign="center">Apache Cassandra 4.0.0 database</td>
       </tr>
       <tr>
         <td width="38%">
@@ -111,7 +111,7 @@
             >Alpine Koa</a
           >
         </td>
-        <td valign="center" width="100%">Koa server with a routing skeleton</td>
+        <td valign="center">Koa server with a routing skeleton</td>
       </tr>
       <tr>
         <td width="38%">
@@ -121,7 +121,7 @@
             >Alpine CraftCMS</a
           >
         </td>
-        <td valign="center" width="100%">Fresh CraftCMS installation</td>
+        <td valign="center">Fresh CraftCMS installation</td>
       </tr>
     </tbody>
   </table>
