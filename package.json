@@ -7,12 +7,12 @@
     "mikl": "echo \"wolfe@mikl.io\" && exit 1"
   },
   "devDependencies": {
-    "@mikey-pro/style-guide": "^1.1.4"
+    "@mikey-pro/style-guide": "^1.4.1"
   },
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://chiefmikey@github.com/chiefmikey/chiefmikey.git"
+    "url": "git+https://github.com/chiefmikey/chiefmikey.git"
   },
   "homepage": "https://github.com/chiefmikey/chiefmikey#readme",
   "author": "chiefmikey",
