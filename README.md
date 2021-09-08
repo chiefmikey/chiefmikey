@@ -23,7 +23,7 @@
           <a href="https://mikey-pro.com">
             <img
               src="./images/mikey-pro.png"
-              style="max-width: 100px"
+              style="width: 100px"
               alt="Mikey Pro logo"
             />
           </a>
