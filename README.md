@@ -19,11 +19,11 @@
     </thead>
     <tbody>
       <tr>
-        <td rowspan="3">
+        <td rowspan="3" width="10%">
           <a href="https://mikey-pro.com">
             <img
               src="./logos/mikey-pro.png"
-              style="width: 10%"
+              style="width: 100%"
               alt="Mikey Pro logo"
             />
           </a>
