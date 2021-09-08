@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <div width="100%" align="center">
   <table width="100%">
-    <thead>
+    <thead width="100%">
       <tr>
         <th align="left" colspan="3" width="100%">
           <div width="100%" align="center">
