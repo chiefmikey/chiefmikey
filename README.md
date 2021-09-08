@@ -19,11 +19,11 @@
     </thead>
     <tbody>
       <tr>
-        <td rowspan="3">
+        <td rowspan="3" style="width: 10%">
           <a href="https://mikey-pro.com">
             <img
               src="./logos/mikey-pro.png"
-              style="width: 10%"
+              style="width: 100%"
               alt="Mikey Pro logo"
             />
           </a>
@@ -47,11 +47,11 @@
         <td valign="center">Look good, feel good</td>
       </tr>
       <tr>
-        <td rowspan="5">
+        <td rowspan="5" style="width: 10%">
           <a href="https://hub.docker.com/u/chiefmikey">
             <img
               src="./logos/docker.png"
-              style="width: 10%"
+              style="width: 100%"
               alt="Docker logo"
             />
           </a>
@@ -103,9 +103,9 @@
         <td valign="center">Fresh CraftCMS installation</td>
       </tr>
       <tr>
-        <td rowspan="3">
+        <td rowspan="3" style="width: 10%">
           <a href="https://www.npmjs.com/~chiefmikey">
-            <img src="./logos/npm.png" style="width: 10%" alt="npm logo" />
+            <img src="./logos/npm.png" style="width: 100%" alt="npm logo" />
           </a>
         </td>
         <td colspan="2">
