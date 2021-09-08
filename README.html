@@ -20,11 +20,13 @@
     <tbody>
       <tr>
         <td rowspan="3">
-          <img
-            src="./logos/mikey-pro.png"
-            style="width: 100px"
-            alt="Mikey Pro logo"
-          />
+          <a href="https://mikey-pro.com">
+            <img
+              src="./logos/mikey-pro.png"
+              style="width: 100px"
+              alt="Mikey Pro logo"
+            />
+          </a>
         </td>
         <td colspan="2">
           <b>
@@ -46,11 +48,13 @@
       </tr>
       <tr>
         <td rowspan="5">
-          <img
-            src="./logos/docker.png"
-            style="width: 100px"
-            alt="Docker logo"
-          />
+          <a href="https://docker.com">
+            <img
+              src="./logos/docker.png"
+              style="width: 100px"
+              alt="Docker logo"
+            />
+          </a>
         </td>
         <td colspan="2">
           <b>
@@ -100,7 +104,9 @@
       </tr>
       <tr>
         <td rowspan="3">
-          <img src="./logos/npm.png" style="width: 100px" alt="npm logo" />
+          <a href="https://npmjs.com">
+            <img src="./logos/npm.png" style="width: 100px" alt="npm logo" />
+          </a>
         </td>
         <td colspan="2">
           <b>
