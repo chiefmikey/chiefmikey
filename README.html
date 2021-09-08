@@ -19,7 +19,10 @@
     </thead>
     <tbody>
       <tr>
-        <td rowspan="2">logo</td>
+        <td rowspan="3">logo</td>
+        <td colspan="2">Mikey Pro</td>
+      </tr>
+      <tr>
         <td>
           <a href="https://mikey-pro.com/style-guide"> Style Guide </a>
         </td>
@@ -33,7 +36,7 @@
       </tr>
       <tr>
         <td>
-          <table valign="center" style="margin: 0">
+          <table valign="center">
             <thead>
               <tr>
                 <th align="left" colspan="2">Docker Images</th>
@@ -86,7 +89,7 @@
       </tr>
       <tr>
         <td>
-          <table valign="center" style="margin: 0">
+          <table valign="center">
             <thead>
               <tr>
                 <th align="left" colspan="2">npm Packages</th>
