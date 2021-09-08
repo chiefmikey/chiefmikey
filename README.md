@@ -20,7 +20,7 @@
     <tbody>
       <tr>
         <td>
-          <table valign="center">
+          <table valign="center" style="margin: 0">
             <thead>
               <tr>
                 <th align="left" colspan="2">Mikey Pro</th>
@@ -45,7 +45,7 @@
       </tr>
       <tr>
         <td>
-          <table valign="center">
+          <table valign="center" style="margin: 0">
             <thead>
               <tr>
                 <th align="left" colspan="2">Docker Images</th>
@@ -98,7 +98,7 @@
       </tr>
       <tr>
         <td>
-          <table valign="center">
+          <table valign="center" style="margin: 0">
             <thead>
               <tr>
                 <th align="left" colspan="2">npm Packages</th>
