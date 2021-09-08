@@ -20,7 +20,7 @@
     <tbody>
       <tr>
         <td rowspan="3">logo</td>
-        <td colspan="2"><b>Mikey Pro</b></td>
+        <td colspan="2"><b><h2>Mikey Pro</h2></b></td>
       </tr>
       <tr>
         <td>
@@ -36,7 +36,7 @@
       </tr>
       <tr>
         <td rowspan="5">logo</td>
-        <td colspan="2"><b>Docker Images</b></td>
+        <td colspan="2"><b><h2>Docker Images</h2></b></td>
       </tr>
       <tr>
         <td>
@@ -80,7 +80,7 @@
       </tr>
       <tr>
         <td rowspan="3">logo</td>
-        <td colspan="2"><b>npm Packages</b></td>
+        <td colspan="2"><b><h2>npm Packages</h2></b></td>
       </tr>
       <tr>
         <td>
