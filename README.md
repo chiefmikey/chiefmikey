@@ -7,8 +7,8 @@
           <div width="100%" align="center">
             <a href="https://github.com/chiefmikey">
               <img
-                width="144"
-                height="144"
+                width="144px"
+                height="144px"
                 src="./images/mikl.png"
                 alt="MIKL splash icon logo"
               />
@@ -23,7 +23,7 @@
           <a href="https://mikey-pro.com">
             <img
               src="./logos/mikey-pro.png"
-              style="width: 100px"
+              style="width: 10%"
               alt="Mikey Pro logo"
             />
           </a>
@@ -51,7 +51,7 @@
           <a href="https://hub.docker.com/u/chiefmikey">
             <img
               src="./logos/docker.png"
-              style="width: 100px"
+              style="width: 10%"
               alt="Docker logo"
             />
           </a>
@@ -105,7 +105,7 @@
       <tr>
         <td rowspan="3">
           <a href="https://www.npmjs.com/~chiefmikey">
-            <img src="./logos/npm.png" style="width: 100px" alt="npm logo" />
+            <img src="./logos/npm.png" style="width: 10%" alt="npm logo" />
           </a>
         </td>
         <td colspan="2">
