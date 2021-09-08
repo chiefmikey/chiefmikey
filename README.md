@@ -1,6 +1,6 @@
 <!DOCTYPE html>
-<div align="center">
-  <table width="1000px">
+<div align="center" width="1000px">
+  <table>
     <thead>
       <tr>
         <th align="left" colspan="3">
