@@ -8,7 +8,6 @@
       alt="MIKL splash icon logo"
     />
   </a>
-</div>
 
 <br />
 
@@ -106,3 +105,5 @@
     </tr>
   </tbody>
 </table>
+
+</div>
