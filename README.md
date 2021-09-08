@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<div align="center" width="1000px">
+<div align="center">
   <table>
     <thead>
       <tr>
         <th align="left" colspan="3">
-          <div align="center">
+          <div align="center" width="1000px">
             <a href="https://github.com/chiefmikey">
               <img
                 width="144px"
