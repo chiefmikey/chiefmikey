@@ -19,7 +19,7 @@
     </thead>
     <tbody>
       <tr>
-        <td rowspan="3">logo</td>
+        <td rowspan="3"><img src="./logos/mikey-pro.png" style="width: 100px" /></td>
         <td colspan="2"><b><h3>Mikey Pro</h3></b></td>
       </tr>
       <tr>
@@ -35,7 +35,7 @@
         <td valign="center">Look good, feel good</td>
       </tr>
       <tr>
-        <td rowspan="5">logo</td>
+        <td rowspan="5"><img src="./logos/docker.png" style="width: 100px" /></td>
         <td colspan="2"><b><h3>Docker Images</h3></b></td>
       </tr>
       <tr>
@@ -79,7 +79,7 @@
         <td valign="center">Fresh CraftCMS installation</td>
       </tr>
       <tr>
-        <td rowspan="3">logo</td>
+        <td rowspan="3"><img src="./logos/npm.png" style="width: 100px" /></td>
         <td colspan="2"><b><h3>npm Packages</h3></b></td>
       </tr>
       <tr>
