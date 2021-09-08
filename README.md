@@ -9,50 +9,107 @@
     />
   </a>
 </div>
-<table align="center">
+
+<br />
+
+<table>
   <thead>
     <tr>
-      <th>Packages</th>
-      <th>Downloads</th>
+      <th colspan="2"><img src="./logos/mikey-pro-logo-iso.png" style="width: 50px; padding-right: 10px">Mikey Pro</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td valign="center">
-        <a href="https://github.com/mikey-pro/style-guide">
-          <b>Mikey Pro</b>
-          Style Guide
-        </a>
+        <a href="https://mikey-pro.com/style-guide"> Style Guide </a>
       </td>
-      <td valign="center" align="center">
-        <a href="https://www.npmjs.com/package/@mikey-pro/style-guide">
-          <img
-            src="https://img.shields.io/npm/dt/@mikey-pro/style-guide?color=%235dacb7&style=for-the-badge&label="
-            alt="Mikey Pro Style Guide npm package total downloads count"
-            style="width: 100%; height: 100%"
-          />
-        </a>
-      </td>
+      <td valign="center">Lint and format code</td>
     </tr>
     <tr>
       <td valign="center">
-        <a href="https://github.com/chiefmikey/eslint-plugin-disable-autofix">
-          <b>ESLint Plugin</b>
-          Disable Autofix
-        </a>
+        <a href="https://mikey-pro.com/theme"> Theme </a>
       </td>
-      <td valign="center" align="center">
-        <a
-          href="https://www.npmjs.com/package/eslint-plugin-disable-autofix"
-          style="height: 0"
-        >
-          <img
-            src="https://img.shields.io/npm/dt/eslint-plugin-disable-autofix?color=%239987d8&style=for-the-badge&label="
-            alt="ESLint Plugin Disable Autofix npm package total downloads count"
-            style="width: 100%; height: 100%"
-          />
-        </a>
-      </td>
+      <td valign="center">Look good, feel good</td>
     </tr>
   </tbody>
 </table>
+
+<br />
+
+  <table>
+    <thead>
+      <tr>
+        <th align="left" colspan="2">Docker Images</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td valign="center">
+          <a
+            href="https://github.com/chiefmikey/docker-images/tree/main/alpine-inject"
+            target="_blank"
+            >Inject</a
+          >
+        </td>
+        <td valign="center">Externally inject shell commands</td>
+      </tr>
+      <tr>
+        <td valign="center">
+          <a
+            href="https://github.com/chiefmikey/docker-images/tree/main/cassandra"
+            target="_blank"
+            >Cassandra</a
+          >
+        </td>
+        <td valign="center">Apache Cassandra 4.0.0 database</td>
+      </tr>
+      <tr>
+        <td valign="center">
+          <a
+            href="https://github.com/chiefmikey/docker-images/tree/main/koa"
+            target="_blank"
+            >Koa</a
+          >
+        </td>
+        <td valign="center">Koa server with a routing skeleton</td>
+      </tr>
+      <tr>
+        <td valign="center">
+          <a
+            href="https://github.com/chiefmikey/docker-images/tree/main/craftcms"
+            target="_blank"
+            >CraftCMS</a
+          >
+        </td>
+        <td valign="center">Fresh CraftCMS installation</td>
+      </tr>
+    </tbody>
+  </table>
+
+<br />
+
+  <table>
+    <thead>
+      <tr>
+        <th>npm Packages</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td valign="center">
+          <a href="https://github.com/mikey-pro/style-guide">
+            <b>Mikey Pro</b>
+            Style Guide
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td valign="center">
+          <a href="https://github.com/chiefmikey/eslint-plugin-disable-autofix">
+            <b>ESLint Plugin</b>
+            Disable Autofix
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
