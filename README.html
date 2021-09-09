@@ -125,4 +125,5 @@
       </tr>
     </tbody>
   </table>
+  <a href="https://chiefmikey.github.io/CODE_OF_CONDUCT/">CODE OF CONDUCT</a>
 </div>
