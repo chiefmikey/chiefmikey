@@ -49,7 +49,7 @@
       <tr>
         <td rowspan="2" width="20%" align="center">
           <a href="https://www.npmjs.com/~chiefmikey">
-            <img src="./img/npm.png" style="width: 70px" alt="npm logo" />
+            <img src="./img/npm.svg" style="width: 70px" alt="npm logo" />
           </a>
         </td>
         <td colspan="2">
@@ -71,7 +71,7 @@
         <td rowspan="5" width="20%" align="center">
           <a href="https://hub.docker.com/u/chiefmikey">
             <img
-              src="./img/docker.png"
+              src="./img/docker.svg"
               style="width: 70px"
               alt="Docker logo"
             />
