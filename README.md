@@ -9,7 +9,7 @@
               <img
                 width="144px"
                 height="144px"
-                src="./images/mikl.png"
+                src="./img/mikl.png"
                 alt="MIKL splash icon logo"
               />
             </a>
@@ -22,7 +22,7 @@
         <td rowspan="3" width="20%" align="center">
           <a href="https://mikey-pro.com">
             <img
-              src="./images/mikey-pro.png"
+              src="./img/mikey-pro-logo-iso.svg"
               style="width: 70px"
               alt="Mikey Pro logo"
             />
@@ -49,7 +49,7 @@
       <tr>
         <td rowspan="2" width="20%" align="center">
           <a href="https://www.npmjs.com/~chiefmikey">
-            <img src="./images/npm.png" style="width: 70px" alt="npm logo" />
+            <img src="./img/npm.png" style="width: 70px" alt="npm logo" />
           </a>
         </td>
         <td colspan="2">
@@ -71,7 +71,7 @@
         <td rowspan="5" width="20%" align="center">
           <a href="https://hub.docker.com/u/chiefmikey">
             <img
-              src="./images/docker.png"
+              src="./img/docker.png"
               style="width: 70px"
               alt="Docker logo"
             />
