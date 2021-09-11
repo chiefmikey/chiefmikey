@@ -70,11 +70,7 @@
       <tr>
         <td rowspan="5" width="20%" align="center">
           <a href="https://hub.docker.com/u/chiefmikey">
-            <img
-              src="./img/docker.svg"
-              style="width: 70px"
-              alt="Docker logo"
-            />
+            <img src="./img/docker.svg" style="width: 70px" alt="Docker logo" />
           </a>
         </td>
         <td colspan="2">
