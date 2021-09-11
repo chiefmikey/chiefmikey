@@ -9,8 +9,8 @@
               <img
                 width="144px"
                 height="144px"
-                src="./img/mikl.png"
-                alt="MIKL splash icon logo"
+                src="./img/mikl.svg"
+                alt="MIKL logo"
               />
             </a>
           </div>
