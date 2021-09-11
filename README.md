@@ -9,7 +9,7 @@
               <img
                 width="144px"
                 height="144px"
-                src="./img/mikll.svg"
+                src="./img/mikl.svg"
                 alt="MIKL logo"
               />
             </a>
