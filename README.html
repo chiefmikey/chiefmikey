@@ -36,13 +36,13 @@
       </tr>
       <tr>
         <td width="32%">
-          <a href="https://mikey-pro.com/style-guide"> Style Guide </a>
+          <a href="https://github.com/mikey-pro/style-guide"> Style Guide </a>
         </td>
         <td valign="center">Lint and format code</td>
       </tr>
       <tr>
         <td valign="center" width="32%">
-          <a href="https://mikey-pro.com/theme"> Theme </a>
+          <a href="https://github.com/mikey-pro/theme"> Theme </a>
         </td>
         <td valign="center">Look good, feel good</td>
       </tr>
@@ -92,7 +92,7 @@
       <tr>
         <td width="32%">
           <a
-            href="https://github.com/chiefmikey/docker-images/tree/main/cassandra"
+            href="https://github.com/chiefmikey/docker-images/tree/main/alpine-cassandra"
             target="_blank"
             >Alpine Cassandra</a
           >
@@ -102,7 +102,7 @@
       <tr>
         <td width="32%">
           <a
-            href="https://github.com/chiefmikey/docker-images/tree/main/koa"
+            href="https://github.com/chiefmikey/docker-images/tree/main/alpine-koa"
             target="_blank"
             >Alpine Koa</a
           >
@@ -112,7 +112,7 @@
       <tr>
         <td width="32%">
           <a
-            href="https://github.com/chiefmikey/docker-images/tree/main/craftcms"
+            href="https://github.com/chiefmikey/docker-images/tree/main/alpine-craftcms"
             target="_blank"
             >Alpine CraftCMS</a
           >
