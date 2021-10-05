@@ -97,7 +97,7 @@
             >Alpine Cassandra</a
           >
         </td>
-        <td valign="center">Apache Cassandra 4.0.0 database</td>
+        <td valign="center">Apache Cassandra database</td>
       </tr>
       <tr>
         <td width="32%">
