@@ -97,7 +97,7 @@
             >Alpine Cassandra</a
           >
         </td>
-        <td valign="center">Apache Cassandra database</td>
+        <td valign="center">Initialize an Apache Cassandra database</td>
       </tr>
       <tr>
         <td width="32%">
@@ -107,7 +107,7 @@
             >Alpine Koa</a
           >
         </td>
-        <td valign="center">Koa server with a routing skeleton</td>
+        <td valign="center">Run a Koa server with a routing template</td>
       </tr>
       <tr>
         <td width="32%">
@@ -117,7 +117,7 @@
             >Alpine CraftCMS</a
           >
         </td>
-        <td valign="center">CraftCMS installation</td>
+        <td valign="center">Serve a new CraftCMS installation</td>
       </tr>
     </tbody>
   </table>
