@@ -117,7 +117,7 @@
             >Alpine CraftCMS</a
           >
         </td>
-        <td valign="center">Fresh CraftCMS installation</td>
+        <td valign="center">CraftCMS installation</td>
       </tr>
     </tbody>
   </table>
