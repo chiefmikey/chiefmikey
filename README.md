@@ -102,12 +102,12 @@
       <tr>
         <td width="32%">
           <a
-            href="https://github.com/chiefmikey/docker-images/tree/main/alpine-koa"
+            href="https://github.com/chiefmikey/docker-images/tree/main/alpine-api"
             target="_blank"
-            >Alpine Koa</a
+            >Alpine API</a
           >
         </td>
-        <td valign="center">Run a Koa server with a routing template</td>
+        <td valign="center">An API template served with Koa routing to MongoDB</td>
       </tr>
       <tr>
         <td width="32%">
