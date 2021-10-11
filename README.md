@@ -107,7 +107,7 @@
             >Alpine API</a
           >
         </td>
-        <td valign="center">An API template served with Koa routing to MongoDB</td>
+        <td valign="center">API template served with Koa routing to MongoDB</td>
       </tr>
       <tr>
         <td width="32%">
