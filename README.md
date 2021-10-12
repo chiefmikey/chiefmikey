@@ -122,4 +122,11 @@
     </tbody>
   </table>
   <a href="https://chiefmikey.github.io/CODE_OF_CONDUCT/">CODE OF CONDUCT</a>
+  <br/>
+  <a href="https://wakatime.com/@9a94edeb-c10a-401a-a4d3-75c8855493d0">
+    <img
+      src="https://wakatime.com/badge/user/9a94edeb-c10a-401a-a4d3-75c8855493d0.svg"
+      alt="Total time coded since Dec 22 2020"
+    />
+  </a>
 </div>
