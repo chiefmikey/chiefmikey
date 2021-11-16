@@ -129,12 +129,3 @@
   </a>
   <br />
   <a href="https://chiefmikey.github.io/CODE_OF_CONDUCT/">CODE OF CONDUCT</a>
-
-<iframe
-  src="https://gitlang.net/chiefmikey"
-  height="500px"
-  width="100%"
-  style="border: none; background-color: transparent"
-  title="GitLang: chiefmikey"
-></iframe>
-</div>
