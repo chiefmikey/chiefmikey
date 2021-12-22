@@ -107,7 +107,7 @@
             >Alpine Node</a
           >
         </td>
-        <td valign="center">Node and nothing else</td>
+        <td valign="center">A blank slate Node environment</td>
       </tr>
       <tr>
         <td width="32%">
