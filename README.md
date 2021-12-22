@@ -102,12 +102,12 @@
       <tr>
         <td width="32%">
           <a
-            href="https://github.com/chiefmikey/docker-images/tree/main/alpine-api"
+            href="https://github.com/chiefmikey/docker-images/tree/main/alpine-node"
             target="_blank"
-            >Alpine API</a
+            >Alpine Node</a
           >
         </td>
-        <td valign="center">API template served with Koa routing to MongoDB</td>
+        <td valign="center">Node and nothing else</td>
       </tr>
       <tr>
         <td width="32%">
@@ -129,3 +129,4 @@
   </a>
   <br />
   <a href="https://chiefmikey.github.io/CODE_OF_CONDUCT/">CODE OF CONDUCT</a>
+</div>
