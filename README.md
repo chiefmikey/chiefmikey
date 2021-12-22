@@ -97,7 +97,7 @@
             >Alpine Cassandra</a
           >
         </td>
-        <td valign="center">Initialize an Apache Cassandra database</td>
+        <td valign="center">Install and initialize Apache Cassandra</td>
       </tr>
       <tr>
         <td width="32%">
@@ -117,7 +117,7 @@
             >Alpine CraftCMS</a
           >
         </td>
-        <td valign="center">Serve a new CraftCMS installation</td>
+        <td valign="center">Install and serve CraftCMS</td>
       </tr>
     </tbody>
   </table>
