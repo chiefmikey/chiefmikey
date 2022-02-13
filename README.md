@@ -10,7 +10,7 @@
                 width="144px"
                 height="144px"
                 src="./img/mikl-logo.svg"
-                alt="MIKL logo"
+                alt="MIKL icon"
               />
             </a>
           </div>
@@ -23,8 +23,8 @@
           <a href="https://mikey-pro.com">
             <img
               src="./img/mikey-pro-logo-iso.svg"
-              style="width: 70px"
-              alt="Mikey Pro logo"
+              style="width: 75px"
+              alt="Mikey Pro icon"
             />
           </a>
         </td>
@@ -48,8 +48,41 @@
       </tr>
       <tr>
         <td rowspan="2" width="20%" align="center">
+          <a href="https://github.com/chiefmikey/tomorrow-night-darkly">
+            <img
+              src="./img/tomorrow-night-darkly.png"
+              style="width: 60px"
+              alt="Tomorrow Night Darkly icon"
+            />
+          </a>
+        </td>
+        <td colspan="2">
+          <b>
+            <h3>Tomorrow Night Darkly</h3>
+          </b>
+        </td>
+      </tr>
+      <tr>
+        <td width="32%">
+          <a href="https://github.com/chiefmikey/tomorrow-night-darkly">
+            <a
+              href="https://chrome.google.com/webstore/detail/tomorrow-night-darkly/najhldfogkjhgdaaloddlfdgjfolnoik"
+              >Chrome</a
+            >
+            &
+            <a
+              href="https://addons.mozilla.org/en-US/firefox/addon/tomorrow-night-darkly/"
+              >Firefox</a
+            >
+            theme
+          </a>
+        </td>
+        <td valign="center">A simply dark theme</td>
+      </tr>
+      <tr>
+        <td rowspan="2" width="20%" align="center">
           <a href="https://www.npmjs.com/~chiefmikey">
-            <img src="./img/npm.svg" style="width: 70px" alt="npm logo" />
+            <img src="./img/npm.svg" style="width: 70px" alt="npm icon" />
           </a>
         </td>
         <td colspan="2">
@@ -70,7 +103,7 @@
       <tr>
         <td rowspan="5" width="20%" align="center">
           <a href="https://hub.docker.com/u/chiefmikey">
-            <img src="./img/docker.svg" style="width: 70px" alt="Docker logo" />
+            <img src="./img/docker.svg" style="width: 70px" alt="Docker icon" />
           </a>
         </td>
         <td colspan="2">
