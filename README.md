@@ -47,7 +47,7 @@
         <td valign="center">Look good, feel good</td>
       </tr>
       <tr>
-        <td rowspan="3" width="20%" align="center">
+        <td rowspan="2" width="20%" align="center">
           <a href="https://github.com/chiefmikey/tomorrow-night-darkly">
             <img
               src="./img/tomorrow-night-darkly.svg"
@@ -58,28 +58,17 @@
         </td>
         <td colspan="2">
           <b>
-            <a href="https://github.com/chiefmikey/tomorrow-night-darkly">
-              <h3>Tomorrow Night Darkly</h3>
-            </a>
+            <h3>Tomorrow Night Darkly</h3>
           </b>
         </td>
       </tr>
       <tr>
         <td width="32%">
-          <a
-            href="https://chrome.google.com/webstore/detail/tomorrow-night-darkly/najhldfogkjhgdaaloddlfdgjfolnoik"
-            >Chrome Theme</a
+          <a href="https://github.com/chiefmikey/tomorrow-night-darkly"
+            >Theme</a
           >
         </td>
-        <td rowspan="2" valign="center">A simply dark theme</td>
-      </tr>
-      <tr>
-        <td width="32%">
-          <a
-            href="https://addons.mozilla.org/en-US/firefox/addon/tomorrow-night-darkly/"
-            >Firefox Theme</a
-          >
-        </td>
+        <td valign="center">A simply dark theme</td>
       </tr>
       <tr>
         <td rowspan="2" width="20%" align="center">
@@ -96,8 +85,7 @@
       <tr>
         <td width="32%">
           <a href="https://github.com/chiefmikey/eslint-plugin-disable-autofix">
-            <b>ESLint Plugin</b>
-            Disable Autofix
+            ESLint Plugin Disable Autofix
           </a>
         </td>
         <td valign="center">Disable ESLint autofix for specified rules</td>
