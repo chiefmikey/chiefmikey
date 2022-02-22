@@ -50,7 +50,7 @@
         <td rowspan="2" width="20%" align="center">
           <a href="https://github.com/chiefmikey/tomorrow-night-darkly">
             <img
-              src="./img/tomorrow-night-darkly.png"
+              src="./img/tomorrow-night-darkly.svg"
               style="width: 60px"
               alt="Tomorrow Night Darkly icon"
             />
