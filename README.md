@@ -47,7 +47,7 @@
         <td valign="center">Look good, feel good</td>
       </tr>
       <tr>
-        <td rowspan="2" width="20%" align="center">
+        <td rowspan="3" width="20%" align="center">
           <a href="https://github.com/chiefmikey/tomorrow-night-darkly">
             <img
               src="./img/tomorrow-night-darkly.svg"
@@ -68,16 +68,18 @@
         <td width="32%">
           <a
             href="https://chrome.google.com/webstore/detail/tomorrow-night-darkly/najhldfogkjhgdaaloddlfdgjfolnoik"
-            >Chrome</a
+            >Chrome Theme</a
           >
-          &
-          <a
-            href="https://addons.mozilla.org/en-US/firefox/addon/tomorrow-night-darkly/"
-            >Firefox</a
-          >
-          theme
         </td>
         <td rowspan="2" valign="center">A simply dark theme</td>
+      </tr>
+      <tr>
+        <td width="32%">
+          <a
+            href="https://addons.mozilla.org/en-US/firefox/addon/tomorrow-night-darkly/"
+            >Firefox Theme</a
+          >
+        </td>
       </tr>
       <tr>
         <td rowspan="2" width="20%" align="center">
