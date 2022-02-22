@@ -77,7 +77,7 @@
           >
           theme
         </td>
-        <td colspan="2" valign="center">A simply dark theme</td>
+        <td rowspan="2" valign="center">A simply dark theme</td>
       </tr>
       <tr>
         <td rowspan="2" width="20%" align="center">
