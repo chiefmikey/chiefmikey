@@ -48,7 +48,7 @@
       </tr>
       <tr>
         <td rowspan="2" width="20%" align="center">
-          <a href="https://github.com/chiefmikey/tomorrow-night-darkly">
+          <a href="https://simplydark.net">
             <img
               src="./img/tomorrow-night-darkly.svg"
               style="width: 60px"
