@@ -72,5 +72,5 @@
       </tr>
     </tbody>
   </table>
-  <a href="https://chiefmikey.github.io/CODE_OF_CONDUCT/">CODE OF CONDUCT</a>
+  <a href="https://chiefmikey.github.io/CODE_OF_CONDUCT/">code-of-conduct</a>
 </div>
