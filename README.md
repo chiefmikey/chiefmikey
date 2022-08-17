@@ -38,13 +38,13 @@
         <td width="32%">
           <a href="https://github.com/mikey-pro/style-guide"> style-guide </a>
         </td>
-        <td valign="center">DESC="Lint and format code."</td>
+        <td valign="center">Lint and format code.</td>
       </tr>
       <tr>
         <td valign="center" width="32%">
           <a href="https://github.com/mikey-pro/theme"> theme </a>
         </td>
-        <td valign="center">DESC="Look good, feel good."</td>
+        <td valign="center">Look good, feel good.</td>
       </tr>
       <tr>
         <td rowspan="2" width="20%" align="center">
@@ -68,7 +68,7 @@
             >theme</a
           >
         </td>
-        <td valign="center">DESC="A simply dark theme."</td>
+        <td valign="center">A simply dark theme.</td>
       </tr>
     </tbody>
   </table>
