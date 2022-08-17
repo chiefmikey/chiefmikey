@@ -36,13 +36,13 @@
       </tr>
       <tr>
         <td width="32%">
-          <a href="https://github.com/mikey-pro/style-guide"> style-guide </a>
+          <a href="https://github.com/mikey-pro/style-guide"> Style Guide </a>
         </td>
         <td valign="center">Lint and format code.</td>
       </tr>
       <tr>
         <td valign="center" width="32%">
-          <a href="https://github.com/mikey-pro/theme"> theme </a>
+          <a href="https://github.com/mikey-pro/theme">Theme</a>
         </td>
         <td valign="center">Look good, feel good.</td>
       </tr>
@@ -58,7 +58,7 @@
         </td>
         <td colspan="2">
           <b>
-            <h3>tomorrow-night-darkly</h3>
+            <h3>Tomorrow Night Darkly</h3>
           </b>
         </td>
       </tr>
@@ -72,5 +72,5 @@
       </tr>
     </tbody>
   </table>
-  <a href="https://chiefmikey.github.io/CODE_OF_CONDUCT/">code-of-conduct</a>
+  <a href="https://chiefmikey.github.io/CODE_OF_CONDUCT/">CODE OF CONDUCT</a>
 </div>
