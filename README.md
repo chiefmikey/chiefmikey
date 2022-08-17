@@ -30,7 +30,7 @@
         </td>
         <td colspan="2">
           <b>
-            <h3>mikey-pro</h3>
+            <h3>Mikey Pro</h3>
           </b>
         </td>
       </tr>
