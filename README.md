@@ -36,7 +36,7 @@
       </tr>
       <tr>
         <td width="32%">
-          <a href="https://github.com/mikey-pro/style-guide"> Style Guide </a>
+          <a href="https://github.com/mikey-pro/style-guide"> style-guide </a>
         </td>
         <td valign="center">Lint and format code.</td>
       </tr>
