@@ -65,7 +65,7 @@
       <tr>
         <td width="32%">
           <a href="https://github.com/chiefmikey/tomorrow-night-darkly"
-            >theme</a
+            >Theme</a
           >
         </td>
         <td valign="center">A simply dark theme.</td>
