@@ -19,7 +19,7 @@
     </thead>
     <tbody>
       <tr>
-        <td rowspan="3" width="20%" align="center">
+        <td rowspan="2" width="20%" align="center">
           <a href="https://mikey-pro.com">
             <img
               src="./img/mikey-pro-logo-iso.svg"
@@ -39,12 +39,6 @@
           <a href="https://github.com/mikey-pro/style-guide"> Style Guide </a>
         </td>
         <td valign="center">Lint and format code.</td>
-      </tr>
-      <tr>
-        <td valign="center" width="32%">
-          <a href="https://github.com/mikey-pro/theme">Theme</a>
-        </td>
-        <td valign="center">Look good, feel good.</td>
       </tr>
       <tr>
         <td rowspan="2" width="20%" align="center">
