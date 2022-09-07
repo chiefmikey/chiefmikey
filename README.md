@@ -20,7 +20,7 @@
     <tbody>
       <tr>
         <td rowspan="2" width="20%" align="center">
-          <a href="https://mikey-pro.com">
+          <a href="https://github.com/chiefmikey/style-guide">
             <img
               src="./img/mikey-pro-logo-iso.svg"
               style="width: 75px"
@@ -36,7 +36,7 @@
       </tr>
       <tr>
         <td width="32%">
-          <a href="https://github.com/mikey-pro/style-guide"> Style Guide </a>
+          <a href="https://github.com/chiefmikey/style-guide"> Style Guide </a>
         </td>
         <td valign="center">Lint and format code.</td>
       </tr>
