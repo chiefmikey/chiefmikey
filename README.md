@@ -64,6 +64,30 @@
         </td>
         <td valign="center">A simply dark theme.</td>
       </tr>
+<tr>
+        <td rowspan="2" width="20%" align="center">
+          <a href="https://www.npmjs.com/settings/chiefmikey/packages">
+            <img
+              src="./img/npm.svg"
+              style="width: 60px"
+              alt="npm icon"
+            />
+          </a>
+        </td>
+        <td colspan="2">
+          <b>
+            <h3>npm</h3>
+          </b>
+        </td>
+      </tr>
+      <tr>
+        <td width="32%">
+          <a href="https://github.com/chiefmikey/eslint-plugin-disable-autofix"
+            >eslint-plugin-disable-autofix</a
+          >
+        </td>
+        <td valign="center">Disable ESLint autofix for specified rules.</td>
+      </tr>
     </tbody>
   </table>
   <a href="https://chiefmikey.github.io/CODE_OF_CONDUCT/">CODE OF CONDUCT</a>
