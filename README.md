@@ -60,7 +60,7 @@
       <tr>
         <td width="32%">
           <a href="https://github.com/chiefmikey/tomorrow-night-darkly"
-            >Theme</a
+            >Chrome theme</a
           >
         </td>
         <td valign="center">A simply dark theme</td>
