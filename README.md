@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <div align="center">
   <table>
     <thead>
@@ -80,9 +79,7 @@
       </tr>
       <tr>
         <td width="32%">
-          <a href="https://github.com/chiefmikey/mikey-pro"
-            >mikey-pro</a
-          >
+          <a href="https://github.com/chiefmikey/mikey-pro">mikey-pro</a>
         </td>
         <td valign="center">Lint and format code</td>
       </tr>
