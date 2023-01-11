@@ -79,7 +79,7 @@
       </tr>
       <tr>
         <td width="32%">
-          <a href="https://github.com/chiefmikey/mikey-pro">mikey-pro</a>
+          <a href="https://github.com/chiefmikey/mikey-pro/tree/main/style-guide">mikey-pro</a>
         </td>
         <td valign="center">Lint and format code</td>
       </tr>
