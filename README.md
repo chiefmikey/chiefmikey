@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <div align="center">
   <table>
     <thead>
@@ -54,9 +53,11 @@
         </td>
         <td colspan="2">
           <b>
-            <a href="https://github.com/chiefmikey/tomorrow-night-darkly">
-              <h3>Tomorrow Night Darkly</h3></a
-            >
+            <h3>
+              <a href="https://github.com/chiefmikey/tomorrow-night-darkly"
+                >Tomorrow Night Darkly</a
+              >
+            </h3>
           </b>
         </td>
       </tr>
