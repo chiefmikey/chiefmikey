@@ -37,7 +37,7 @@
       </tr>
       <tr>
         <td width="32%">
-          <a href="https://github.com/chiefmikey/gitlang">gitlang.net</a>
+          <a href="https://gitlang.net">gitlang.net</a>
         </td>
         <td valign="center">
           View language usage per repo or total by username
