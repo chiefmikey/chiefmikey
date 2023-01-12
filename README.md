@@ -53,14 +53,14 @@
         </td>
         <td colspan="2">
           <b>
-            <h3>Tomorrow Night Darkly</h3>
+            <a href="https://github.com/chiefmikey/tomorrow-night-darkly"><h3>Tomorrow Night Darkly</h3></a>
           </b>
         </td>
       </tr>
       <tr>
         <td width="32%">
-          <a href="https://github.com/chiefmikey/tomorrow-night-darkly"
-            >Chrome theme</a
+          <a href="https://simplydark.net"
+            >simplydark.net</a
           >
         </td>
         <td valign="center">A simply dark theme</td>
