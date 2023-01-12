@@ -29,7 +29,9 @@
         </td>
         <td colspan="2">
           <b>
-            <h3>GitLang</h3>
+            <h3>
+              <a href="https://github.com/chiefmikey/gitlang">GitLang</a>
+            </h3>
           </b>
         </td>
       </tr>
@@ -75,7 +77,11 @@
         </td>
         <td colspan="2">
           <b>
-            <h3>npm</h3>
+            <h3>
+              <a href="https://www.npmjs.com/settings/chiefmikey/packages"
+                >npm</a
+              >
+            </h3>
           </b>
         </td>
       </tr>
