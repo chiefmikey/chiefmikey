@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <div align="center">
   <table>
     <thead>
@@ -53,15 +54,15 @@
         </td>
         <td colspan="2">
           <b>
-            <a href="https://github.com/chiefmikey/tomorrow-night-darkly"><h3>Tomorrow Night Darkly</h3></a>
+            <a href="https://github.com/chiefmikey/tomorrow-night-darkly">
+              <h3>Tomorrow Night Darkly</h3></a
+            >
           </b>
         </td>
       </tr>
       <tr>
         <td width="32%">
-          <a href="https://simplydark.net"
-            >simplydark.net</a
-          >
+          <a href="https://simplydark.net">simplydark.net</a>
         </td>
         <td valign="center">A simply dark theme</td>
       </tr>
@@ -79,7 +80,10 @@
       </tr>
       <tr>
         <td width="32%">
-          <a href="https://github.com/chiefmikey/mikey-pro/tree/main/style-guide">mikey-pro</a>
+          <a
+            href="https://github.com/chiefmikey/mikey-pro/tree/main/style-guide"
+            >mikey-pro</a
+          >
         </td>
         <td valign="center">Lint and format code</td>
       </tr>
