@@ -88,7 +88,7 @@
       <tr>
         <td width="32%">
           <a
-            href="https://github.com/chiefmikey/mikey-pro/tree/main/style-guide"
+            href="https://github.com/chiefmikey/mikey-pro"
             >mikey-pro</a
           >
         </td>
