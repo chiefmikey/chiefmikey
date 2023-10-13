@@ -1,4 +1,4 @@
-<div style="align: center">
+<div style="text-align: center">
   <table style="width: 100%">
     <thead>
       <tr>
