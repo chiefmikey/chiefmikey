@@ -21,7 +21,7 @@
         <div style="text-align: center">
           <span>I'm available for hire!</span>
           <br />
-          <a href="https://linkedin.com/miklwolfe">LinkedIn</a>
+          <a href="https://www.linkedin.com/in/miklwolfe/">LinkedIn</a>
           <br />
           <a href="mailto:wolfe@mikl.io">wolfe@mikl.io</a>
         </div>
