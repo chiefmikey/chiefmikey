@@ -1,5 +1,5 @@
 <div style="text-align: center">
-  <table style="width: 100%">
+  <table style="width: 600px">
     <thead>
       <tr>
         <th style="text-align: left" colspan="3">
