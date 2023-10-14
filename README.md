@@ -1,5 +1,5 @@
-<div style="display: flex; flex-direction: column; text-align: center">
-  <table style="width: 600px">
+<div style="display: flex; flex-direction: column; text-align: center; width: 100%">
+  <table>
     <thead>
       <tr>
         <th style="text-align: left" colspan="3">
