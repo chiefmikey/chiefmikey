@@ -1,9 +1,9 @@
-<div align="center">
+<div align="center" style="text-align: center">
   <table>
     <thead>
       <tr>
-        <th style="text-align: left" colspan="3">
-          <div style="text-align: center">
+        <th colspan="3">
+          <div>
             <a href="https://mikl.io" target="_blank">
               <img
                 style="width: 144px; height: 144px"
@@ -16,8 +16,8 @@
       </tr>
     </thead>
     <tr>
-      <th style="text-align: left" colspan="3">
-        <div style="text-align: center">
+      <th colspan="3">
+        <div>
           <span>I'm available for hire!</span>
           <br />
           <a href="https://www.linkedin.com/in/miklwolfe/" target="_blank"
