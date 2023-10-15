@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" width="800px">
   <table>
     <thead>
       <tr>
@@ -17,7 +17,7 @@
       </tr>
     </thead>
     <tr>
-      <th colspan="3" width="800px">
+      <th colspan="3">
         <div>
           <span>I'm available for hire!</span>
           <br />
