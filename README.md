@@ -1,5 +1,5 @@
 <div align="center">
-  <div width="800px"></div>
+<table ><thead align="center"><tr><th width="800px" height="300px">
   <table>
     <thead>
       <tr>
@@ -31,4 +31,5 @@
       </th>
     </tr>
   </table>
+  </th></tr></thead></table>
 </div>
