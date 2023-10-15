@@ -1,9 +1,8 @@
 <div align="center">
-<table><thead align="center" valign="middle"><tr><th width="800px">
   <table>
-    <thead align="center">
+    <thead>
       <tr>
-        <th colspan="3">
+        <th colspan="3" width="800px">
           <div>
             <a href="https://mikl.io" target="_blank">
               <img
@@ -31,5 +30,4 @@
       </th>
     </tr>
   </table>
-  </th></tr></thead></table>
 </div>
