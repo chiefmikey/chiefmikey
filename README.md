@@ -1,5 +1,6 @@
 <div align="center">
-  <table width="800px">
+  <div width="800px"></div>
+  <table>
     <thead>
       <tr>
         <th colspan="3">
