@@ -1,5 +1,5 @@
 <div align="center">
-<table><thead align="center" valign="middle"><tr><th width="800px" height="300px">
+<table><thead align="center" valign="bottom"><tr><th width="800px" height="294px">
   <table>
     <thead>
       <tr>
