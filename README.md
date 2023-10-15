@@ -18,15 +18,20 @@
     </thead>
     <tr>
       <th colspan="3">
-        <div>
-          <span>I'm available for hire!</span>
           <br />
+        <div align="center">
+          <span>I'm available for hire! 👀</span> 
+          <br />
+          <br />
+          <div align="center" width="200px">
           <a href="https://www.linkedin.com/in/miklwolfe/" target="_blank"
-            >LinkedIn</a
+            >🌐: LinkedIn</a
           >
           <br />
-          <a href="mailto:wolfe@mikl.io" target="_blank">wolfe@mikl.io</a>
+          <a href="mailto:wolfe@mikl.io" target="_blank">✉️: wolfe@mikl.io</a>
+          </div>
         </div>
+          <br />
       </th>
     </tr>
   </table>
