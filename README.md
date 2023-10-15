@@ -1,12 +1,13 @@
-<div align="center" style="text-align: center">
+<div align="center">
   <table>
     <thead>
       <tr>
-        <th style="text-align: center" colspan="3" width="800px">
+        <th colspan="3">
           <div>
             <a href="https://mikl.io" target="_blank">
               <img
-                style="width: 144px; height: 144px"
+                width="144px"
+                height="144px"
                 src="./img/mikl-logo.svg"
                 alt="MIKL icon"
               />
@@ -16,7 +17,7 @@
       </tr>
     </thead>
     <tr>
-      <th style="text-align: center" colspan="3">
+      <th colspan="3" width="800px">
         <div>
           <span>I'm available for hire!</span>
           <br />
