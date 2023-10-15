@@ -25,10 +25,10 @@
           <br />
           <div align="center" width="200px">
           <a href="https://www.linkedin.com/in/miklwolfe/" target="_blank"
-            >🌐: LinkedIn</a
+            >🌐 LinkedIn</a
           >
           <br />
-          <a href="mailto:wolfe@mikl.io" target="_blank">✉️: wolfe@mikl.io</a>
+          <a href="mailto:wolfe@mikl.io" target="_blank">✉️ wolfe@mikl.io</a>
           </div>
         </div>
           <br />
