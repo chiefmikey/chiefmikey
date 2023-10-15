@@ -2,7 +2,7 @@
   <table>
     <thead>
       <tr>
-        <th style="text-align: center" colspan="3">
+        <th style="text-align: center" colspan="3" width="800px">
           <div>
             <a href="https://mikl.io" target="_blank">
               <img
