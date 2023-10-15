@@ -1,7 +1,7 @@
 <div align="center">
-<table><thead align="center" valign="bottom"><tr><th width="800px" height="284px">
+<table><thead align="center"><tr><th width="800px">
   <table>
-    <thead>
+    <thead align="center">
       <tr>
         <th colspan="3">
           <div>
