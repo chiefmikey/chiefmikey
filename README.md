@@ -22,7 +22,7 @@
         <div align="center">
           <span>I'm available for hire! 👀</span> 
           <br />
-          <br />
+          Colorado || Remote
           <div align="center" width="200px">
           <a href="https://www.linkedin.com/in/miklwolfe/" target="_blank"
             >LinkedIn</a
