@@ -20,9 +20,11 @@
       <th colspan="3">
         <br />
         <div align="center">
-          <span>I'm available for hire! 👀</span>
+          <span>
+            <b>I'm available for hire! 👀</b>
+          </span>
           <br />
-          <span style="font-weight: 200">Colorado || Remote</span>
+          <span>Colorado || Remote</span>
           <div align="center" width="200px">
             <a href="https://www.linkedin.com/in/miklwolfe/" target="_blank"
               >LinkedIn</a
