@@ -1,3 +1,4 @@
+<!doctype html>
 <div align="center">
   <table>
     <thead>
@@ -20,9 +21,7 @@
       <th colspan="3">
         <br />
         <div align="center">
-          <span>
-            <b>I'm available for hire! 👀</b>
-          </span>
+          <span> I'm available for hire! 👀 </span>
           <br />
           <span>Colorado || Remote</span>
           <div align="center" width="200px">
