@@ -1,4 +1,3 @@
-<!doctype html>
 <div align="center">
   <table>
     <thead>
