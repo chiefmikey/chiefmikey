@@ -4,7 +4,7 @@
       <tr>
         <th colspan="3" width="800px">
           <div>
-            <a href="https://mikl.io" target="_blank">
+            <a href="https://mikl.io">
               <img
                 width="144px"
                 height="144px"
@@ -24,11 +24,11 @@
           <br />
           <span>Colorado || Remote</span>
           <div align="center" width="200px">
-            <a href="https://www.linkedin.com/in/miklwolfe/" target="_blank"
+            <a href="https://www.linkedin.com/in/miklwolfe/"
               >LinkedIn</a
             >
             <br />
-            <a href="mailto:wolfe@mikl.io" target="_blank">wolfe@mikl.io</a>
+            <a href="mailto:wolfe@mikl.io">wolfe@mikl.io</a>
           </div>
         </div>
         <br />
