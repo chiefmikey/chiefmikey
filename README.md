@@ -4,7 +4,7 @@
       <tr>
         <th colspan="3" width="800px">
           <div>
-            <a href="https://mikl.io">
+            <a href="https://www.mikl.io">
               <img
                 width="144px"
                 height="144px"
