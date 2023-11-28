@@ -27,6 +27,10 @@
             <a href="https://www.linkedin.com/in/miklwolfe/"
               >LinkedIn</a
             >
+            -
+            <a href="https://github.com/chiefmikey/chiefmikey/blob/main/mikl-wolfe_software-engineer.pdf"
+              >Resume</a
+            >
             <br />
             <a href="mailto:wolfe@mikl.io">wolfe@mikl.io</a>
           </div>
