@@ -16,27 +16,5 @@
         </th>
       </tr>
     </thead>
-    <tr>
-      <th colspan="3">
-        <br />
-        <div align="center">
-          <span> I'm available for hire! 👀 </span>
-          <br />
-          <span>Colorado || Remote</span>
-          <div align="center" width="200px">
-            <a href="https://www.linkedin.com/in/miklwolfe/"
-              >LinkedIn</a
-            >
-            -
-            <a href="https://github.com/chiefmikey/chiefmikey/blob/main/mikl-wolfe_software-engineer.pdf"
-              >Resume</a
-            >
-            <br />
-            <a href="mailto:wolfe@mikl.io">wolfe@mikl.io</a>
-          </div>
-        </div>
-        <br />
-      </th>
-    </tr>
   </table>
 </div>
