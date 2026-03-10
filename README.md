@@ -16,12 +16,5 @@
         </th>
       </tr>
     </thead>
-    <tbody>
-      <tr>
-        <td colspan="3" align="center">
-          <a href="https://cronparse.com"><strong>cronparse.com</strong></a> — Cron expression parser, builder, and schedule previewer
-        </td>
-      </tr>
-    </tbody>
   </table>
 </div>
