@@ -13,7 +13,7 @@ GitHub profile repository (github.com/chiefmikey) containing profile README, res
 
 ## Architecture
 
-```
+```text
 README.md                 # GitHub profile README (HTML table with logo)
 README.html               # HTML version of profile
 img/                      # Logo and image assets (mikl-logo.svg, etc.)
