@@ -16,5 +16,17 @@
         </th>
       </tr>
     </thead>
+    <tbody>
+      <tr>
+        <td colspan="3" align="center">
+          <p>Available for contract &amp; freelance work</p>
+          <p>
+            <a href="mailto:miklbarton@gmail.com">miklbarton@gmail.com</a>
+            &nbsp;&middot;&nbsp;
+            <a href="https://www.linkedin.com/in/miklwolfe/">LinkedIn</a>
+          </p>
+        </td>
+      </tr>
+    </tbody>
   </table>
 </div>
