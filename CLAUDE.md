@@ -15,11 +15,15 @@ GitHub profile repository (github.com/chiefmikey) containing profile README, res
 
 ```text
 README.md                 # GitHub profile README (HTML table with logo)
-README.html               # HTML version of profile
+README.html               # HTML mirror (GitHub renders README.md only; style/target attrs here are cosmetic)
 img/                      # Logo and image assets (mikl-logo.svg, etc.)
-mikl-wolfe_software-engineer.pdf  # Resume/CV
+mikl-wolfe_software-engineer.pdf  # Resume/CV (kept, intentionally not linked from the READMEs)
 eslint.config.js          # Re-exports mikey-pro
 ```
+
+## Contact
+
+Public contact is `wolfe@mikl.io` (matches resume and package author) and LinkedIn `/in/miklwolfe`. Never use the legacy `miklbarton` address. Keep README.md and README.html content identical.
 
 ## Commands
 

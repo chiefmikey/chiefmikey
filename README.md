@@ -4,7 +4,7 @@
       <tr>
         <th colspan="3" width="800px">
           <div>
-            <a href="https://www.mikl.io">
+            <a href="https://mikl.io">
               <img
                 width="144px"
                 height="144px"
@@ -21,7 +21,7 @@
         <td colspan="3" align="center">
           <p>Available for contract &amp; freelance work</p>
           <p>
-            <a href="mailto:miklbarton@gmail.com">miklbarton@gmail.com</a>
+            <a href="mailto:wolfe@mikl.io">wolfe@mikl.io</a>
             &nbsp;&middot;&nbsp;
             <a href="https://www.linkedin.com/in/miklwolfe/">LinkedIn</a>
           </p>
