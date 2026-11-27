@@ -15,5 +15,8 @@
     "url": "https://github.com/chiefmikey/chiefmikey/issues"
   },
   "license": "MIT",
-  "author": "Mikl Wolfe <wolfe@mikl.io> (https://mikl.io)"
+  "author": "Mikl Wolfe <wolfe@mikl.io> (https://mikl.io)",
+  "overrides": {
+    "handlebars": "^4.7.10"
+  }
 }
